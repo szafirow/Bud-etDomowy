@@ -1,0 +1,6 @@
+-Dodano logi z pliku
+-Wprowadzono export do pdf dla wydatków i przychodów
+*cccc
+*ddd
+*dsadasd
+*sss

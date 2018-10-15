@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BudzetDomowy
+</name>
+</assembly>
+<members>
+<member name="T:BudzetDomowy.My.Resources.Resources">
+<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.ResourceManager">
+<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.Culture">
+<summary>
+  Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.add">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.back">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.del">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.edit">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.excel">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.logo">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.pdf">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.reload">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BudzetDomowy.My.Resources.Resources.slownik_budzet_domowy">
+<summary>
+  Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
